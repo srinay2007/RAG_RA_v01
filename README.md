@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/c3ff69ac-de3a-449c-b35e-07ef4c8d8438)
-
+## This is sample RAG application used for financial analysis using financial data regarding earnings of companies.
 ## Business Use Case
 
 **Problem Statement:**
@@ -32,7 +31,7 @@ Provide timely insights to improve client recommendations.
 
 Strengthen FinTech Insights Inc.’s competitive edge by delivering more reliable and faster insights to clients.
 
-Steps involved in this Sample RAG implementation use case.
+
 
 Setup - 
   # Import the necessary Libraries
