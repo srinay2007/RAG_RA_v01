@@ -37,11 +37,11 @@ Setup -
   **# Import the necessary Libraries**
 Implementing RAG
 Prepare Data - 
-  # Upload Dataset-10k.zip and unzip it dataset folder using -d option
+  **# Upload Dataset-10k.zip and unzip it dataset folder using -d option**
 Chunking - 
-  # Provide pdf_folder_location
-  # Load the directory to pdf_loader
-  # Create text_splitter
+  **# Provide pdf_folder_location**
+  **# Load the directory to pdf_loader**
+  **# Create text_splitter**
   # Create chunks
   # Check the total number of chunks
   # Check the first object in report_chunks and print it
