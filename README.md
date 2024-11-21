@@ -34,17 +34,25 @@ Strengthen FinTech Insights Inc.’s competitive edge by delivering more reliabl
 
 
 Setup - 
+
   **# Import the necessary Libraries**
 Implementing RAG
 Prepare Data - 
+
   **# Upload Dataset-10k.zip and unzip it dataset folder using -d option**
 Chunking - 
+
   **# Provide pdf_folder_location**
+
   **# Load the directory to pdf_loader**
+  
   **# Create text_splitter**
-  # Create chunks
-  # Check the total number of chunks
-  # Check the first object in report_chunks and print it
+  
+  **  # Create chunks**
+  
+ ** # Check the total number of chunks**
+ 
+  **# Check the first object in report_chunks and print it**
 Database Creation
   # Create a Collection Name
   # Initiate the embedding momdel 'thenlper/gte-large'
