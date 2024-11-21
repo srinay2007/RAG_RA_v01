@@ -34,7 +34,7 @@ Strengthen FinTech Insights Inc.’s competitive edge by delivering more reliabl
 
 
 Setup - 
-  # Import the necessary Libraries
+  **# Import the necessary Libraries**
 Implementing RAG
 Prepare Data - 
   # Upload Dataset-10k.zip and unzip it dataset folder using -d option
