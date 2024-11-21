@@ -48,27 +48,35 @@ Chunking -
   
   **# Create text_splitter**
   
-  **  # Create chunks**
+  **# Create chunks**
   
- ** # Check the total number of chunks**
+  **# Check the total number of chunks**
  
   **# Check the first object in report_chunks and print it**
 Database Creation
-  # Create a Collection Name
-  # Initiate the embedding momdel 'thenlper/gte-large'
-  # Create the vector Database
-  # Persist the DB
-  # Mount the Google Drive
-  # Copy the persisted database to your drive
+
+  **# Create a Collection Name**
+  
+  **# Initiate the embedding momdel 'thenlper/gte-large'**
+  
+  **# Create the vector Database**
+  
+  **# Persist the DB**
+  
+  **# Mount the Google Drive**
+  
+  **# Copy the persisted database to your drive**
 Test your RAG Application
-  # Install the required packages
-  # Import the necessary Libraries
+
+  **# Install the required packages**
+  
+  **# Import the necessary Libraries**
 Authentication
 Mount Google Drive
 Load Vector DB from Google Drive
   # Initialise the embedding model
   # Load the persisted DB
-  # Create a Colelction Name
+  # Create a Collection Name
   # Load the persisted DB
 test our database with a sample question
 RAG Q&A
