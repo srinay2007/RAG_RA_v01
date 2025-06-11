@@ -33,14 +33,14 @@ Strengthen FinTech Insights Inc.’s competitive edge by delivering more reliabl
 
 
 
-Setup - 
+**Setup -** 
 
   **# Import the necessary Libraries**
-Implementing RAG
+**Implementing RAG**
 Prepare Data - 
 
   **# Upload Dataset-10k.zip and unzip it dataset folder using -d option**
-Chunking - 
+**Chunking -** 
 
   **# Provide pdf_folder_location**
 
@@ -53,7 +53,7 @@ Chunking -
   **# Check the total number of chunks**
  
   **# Check the first object in report_chunks and print it**
-Database Creation
+**Database Creation**
 
   **# Create a Collection Name**
   
@@ -66,35 +66,35 @@ Database Creation
   **# Mount the Google Drive**
   
   **# Copy the persisted database to your drive**
-Test your RAG Application
+**Test your RAG Application**
 
   **# Install the required packages**
   
   **# Import the necessary Libraries**
-Authentication
-Mount Google Drive
-Load Vector DB from Google Drive
+**Authentication**
+**Mount Google Drive**
+**Load Vector DB from Google Drive**
   # Initialise the embedding model
   # Load the persisted DB
   # Create a Collection Name
   # Load the persisted DB
-test our database with a sample question
-RAG Q&A
-Prompt Design
+**test our database with a sample question**
+**RAG Q&A**
+**Prompt Design**
   # Create a system message for the LLM
   # Create a message template
   # Create a variable company to store the source of the context so that you can filter the similarity search
   # Create context for query by joining page_content and page number of the retrieved docs
   # Craft the messages to pass to chat.completions.create
   # Get a response from the LLM
-Evaluation
+**Evaluation**
   # Create a prompt for the rater LLM to check the groundedness of the response
   # Create a prompt for the rater LLM to check the relevance of the response
   # Create user message template such that question, answer and context can be provided through it
   # Create messages for groundness
   # Print the response of the rater LLM on groundedness
   # Print the response of the rater LLM on relevance
-Evaluation on multiple QUeries
+**Evaluation on multiple QUeries**
 
   
   
